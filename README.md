@@ -69,9 +69,3 @@ Each test includes a histogram of the simulated (null) distribution of the test 
 - Applied Monte Carlo simulation to derive empirical p-values through permutation.
 - Gained practical experience with resampling techniques for nonparametric testing.
 - Developed custom statistical functions and interpreted high-dimensional test outcomes.
-
----
-
-## Course Context
-
-This work was completed as part of a **graduate course in Monte Carlo Methods**, focused on simulation-based statistical inference. The techniques practiced here are directly applicable to quantitative research roles, experimental design, and data-driven decision making.
