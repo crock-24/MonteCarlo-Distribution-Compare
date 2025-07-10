@@ -57,13 +57,6 @@ Each test includes a histogram of the simulated (null) distribution of the test 
 
 ---
 
-## File Overview
-
-- `week7_analysis.R`: Full R script implementing all tests and visualizations
-- `Week7_Rorick.pdf`: Written summary of code, outputs, and conclusions (course submission)
-
----
-
 ## Learning Takeaways
 
 - Applied Monte Carlo simulation to derive empirical p-values through permutation.
